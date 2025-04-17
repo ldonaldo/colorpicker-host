@@ -1,3 +1,4 @@
+import React from "react";
 import ReactDOM from "react-dom/client";
 import ColorPicker from "colorPicker/ColorPicker";
 import ColorList from "colorList/ColorList";
